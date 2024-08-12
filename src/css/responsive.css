@@ -1,0 +1,23 @@
+@media (max-width: 1180px) {
+    .item .titulo{
+        font-size: 7rem;
+    }
+
+    .item .lata{
+        width: 400px;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    .item .titulo{
+        font-size: 2.6rem;
+    }
+
+    .item .lata{
+        width: 250px;
+    }
+}
+
+
